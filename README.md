@@ -10,8 +10,7 @@ Visit one of these two links to learn more about me:</br>
 <a target="_blank" href="https://princebillygk.github.io/">
     <u><b>princebillygk.github.io</b></u>
     <img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
-</a></br>
-<a target="_blank" href="https://princebillygk.azurewebsites.net/">
+</a>
     <u><b>princebillygk.azurewebsites.net</b></u>
     <img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
 </a></br>
