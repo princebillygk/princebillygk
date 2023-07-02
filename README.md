@@ -11,9 +11,7 @@ Visit one of these two links to learn more about me:</br>
     <u><b>princebillygk.github.io</b></u>
     <img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
 </a>
-    <u><b>princebillygk.azurewebsites.net</b></u>
-    <img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
-</a></br>
+   </br>
     </td>
     <td>
 <a href="https://app.daily.dev/princebillygk"><img src="https://api.daily.dev/devcards/fa4be9a89d1f4f6c8f9d46477db6245f.png?r=hoi" width="600px" alt="Prince Billy Graham Karmoker's Dev Card"/></a>
