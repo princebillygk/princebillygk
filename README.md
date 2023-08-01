@@ -28,9 +28,6 @@ Visit one of these two links to learn more about me:</br>
 <a target="_blank" href="https://www.linkedin.com/in/princebillygk/">
 <img width="32px" height="32px"  src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
-<a target="_blank" href="https://t.me/princebillygk">
-<img width="32px" height="32px"  src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
-</a>
 <a target="_blank" href="https://wa.link/6al4sv/">
 <img width="32px" height="32px"  src="https://img.icons8.com/color/48/228BE6/whatsapp--v1.png"/>
 </a>
