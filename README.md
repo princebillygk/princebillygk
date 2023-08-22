@@ -9,7 +9,7 @@ Visit one of these two links to learn more about me:</br>
     <img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
 </a>
 
-<table>
+<table align="center">
 <tr>
 <td>
 <p align="left">
