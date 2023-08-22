@@ -18,7 +18,7 @@ Visit one of these two links to learn more about me:</br>
 </td>
 <td>
 <p align="right">
-    <a align="right" href="https://data.typeracer.com/pit/profile?user=princebillygk&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=princebillygk" border="0" width="100px" alt="Typeracer Profile"/></a>
+    <a align="right" href="https://data.typeracer.com/pit/profile?user=princebillygk&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=princebillygk" border="0" width="200px" alt="Typeracer Profile"/></a>
 </p>
 </td>
 </tr>
