@@ -14,11 +14,13 @@ Visit one of these two links to learn more about me:</br>
    </br>
     </td>
     <td>
-![](https://leetcard.jacoblin.cool/princebillygk2?ext=activity)
-    </td>
-    <td>
     <a href="https://data.typeracer.com/pit/profile?user=princebillygk&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=princebillygk" border="0" width="400px" alt="TypeRacer.com scorecard for user princebillygk"/></a>
   </td>
+ </tr>
+ <tr>
+      <td>
+![](https://leetcard.jacoblin.cool/princebillygk2?ext=activity)
+    </td>
  </tr>
 </table>
 
