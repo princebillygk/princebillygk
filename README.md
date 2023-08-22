@@ -1,7 +1,7 @@
 <table border="0">
  <tr>
     <td>
-    <h1> Backend Developer (Golang)</h1>
+    <h1>Software Engineer (Python, Golang, Typescript, Javascript)</h1>
 <p align="justify">
 I'm glad that you are here. Your visit to my profile makes me extremely happy. Currently, I work as a freelance developer. My bachelor's degree will be completed very shortly. I'm seeking for work. I'm skilled in backend development. You can get in touch with me if you require a backend developer.
 </p>
