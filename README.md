@@ -1,4 +1,4 @@
-# Software Engineer (Python, Golang, Typescript, Javascript)
+# Software Engineer (<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/python.png" height="64">, Golang, Typescript, Javascript)
 <p align="justify">
 I'm glad that you are here. Your visit to my profile makes me extremely happy.
 </p>
