@@ -13,7 +13,7 @@ Visit one of these two links to learn more about me:</br>
 <tr>
 <td>
 <p align="left">
-    <a align="left" href="https://leetcode.com/princebillygk2/" target="_top"><img src="https://leetcard.jacoblin.cool/princebillygk2?ext=activity" border="0" width="600px" alt="Leetcode Profile"/></a>
+    <a align="left" href="https://leetcode.com/princebillygk2/" target="_top"><img src="https://leetcard.jacoblin.cool/princebillygk2?ext=activity" border="0" width="500px" alt="Leetcode Profile"/></a>
 </p>
 </td>
 <td>
