@@ -9,7 +9,7 @@ Visit one of these two links to learn more about me:</br>
     <img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
 </a>
 
-<a align="left" href="https://leetcode.com/princebillygk2/" target="_top"><img src="https://leetcard.jacoblin.cool/princebillygk2?ext=activity" border="0" width="400px" alt="Leetcode Profile"/></a>
+<a align="left" href="https://leetcode.com/princebillygk2/" target="_top"><img src="https://leetcard.jacoblin.cool/princebillygk2?ext=activity" border="0" width="200px" alt="Leetcode Profile"/></a>
 
 <a align="right" href="https://data.typeracer.com/pit/profile?user=princebillygk&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=princebillygk" border="0" width="400px" alt="Typeracer Profile"/></a>
 
