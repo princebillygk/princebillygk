@@ -1,22 +1,23 @@
 <table border="0">
  <tr>
     <td>
-    <h1>Software Engineer (Python, Golang, Typescript, Javascript)</h1>
-<p align="justify">
-I'm glad that you are here. Your visit to my profile makes me extremely happy.
-</p>
+        <h1>Software Engineer (Python, Golang, Typescript, Javascript)</h1>
+        <p align="justify">
+        I'm glad that you are here. Your visit to my profile makes me extremely happy.
+        </p>
 
-Visit one of these two links to learn more about me:</br>
-<a target="_blank" href="https://princebillygk.github.io/">
-    <u><b>princebillygk.github.io</b></u>
-    <img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
-</a>
-   </br>
+        Visit one of these two links to learn more about me:</br>
+        <a target="_blank" href="https://princebillygk.github.io/">
+            <u><b>princebillygk.github.io</b></u>
+            <img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
+        </a>
     </td>
     <td>
-    <a href="https://data.typeracer.com/pit/profile?user=princebillygk&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=princebillygk" border="0" width="400px" alt="TypeRacer.com scorecard for user princebillygk"/></a>
-  </td>
+        <a href="https://data.typeracer.com/pit/profile?user=princebillygk&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=princebillygk" border="0" width="400px" alt="TypeRacer.com scorecard for user princebillygk"/></a>
+    </td>
  </tr>
+
+
  <tr>
       <td>
 ![](https://leetcard.jacoblin.cool/princebillygk2?ext=activity)
