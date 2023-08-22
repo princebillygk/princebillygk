@@ -1,4 +1,4 @@
-# Software Engineer (<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/havascript.png" height="16px">)
+# Software Engineer (<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16px">)
 <p align="justify">
 I'm glad that you are here. Your visit to my profile makes me extremely happy.
 </p>
