@@ -41,14 +41,14 @@ Visit one of these two links to learn more about me:</br>
 </p>
 
 
-<table height="64px" align="center">
+<table align="center">
 <tr>
     <td><img src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
-    <td><img height="100%" src="https://media.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif"></td>
-    <td><img height="100%" src="https://media.tenor.com/BbMuRdTu4BYAAAAC/owo-anime.gif"></td>
-    <td><img height="100%" src="https://media.tenor.com/FYgnDtr-eFwAAAAC/sponge-bob-patrick-star.gif"></td>
-    <td><img height="100%" src="https://media.tenor.com/kj36bWT0HjQAAAAM/golden-boy-kintaro.gif"></td>
-    <td><img height="100%" src="https://media.tenor.com/9j8vvseBaHsAAAAC/test-cat-typing.gif"></td>
+    <td><img src="https://i.ibb.co/RQmn7h3/image.png" alt="image" border="0"></td>
+    <td><img src="https://i.ibb.co/5T8tmPr/image.png" alt="image" border="0"></td>
+    <td><img src="https://i.ibb.co/p36yvXP/image.png" alt="image" border="0"></td>
+    <td><img src="https://i.ibb.co/Tw3nz62/image.png" alt="image" border="0"></td>
+    <td><img src="https://i.ibb.co/2gMFD4c/image.png" alt="image" border="0"></td>
     <td><img src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
 </tr>
 </table>
