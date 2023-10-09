@@ -48,7 +48,7 @@ Visit one of these two links to learn more about me:</br>
     <td> <img src="https://github.com/princebillygk/princebillygk/assets/112609311/4d746793-08ae-4d7f-96c7-6b42dc70487b"></td>
     <td><img src="https://github.com/princebillygk/princebillygk/assets/112609311/8659796a-340d-41ef-838f-e83f8c27b1d6"></td>
     <td> <img src="https://github.com/princebillygk/princebillygk/assets/112609311/3db4a358-f3b1-44da-aa5c-b9bbed263bdd"></td>
-    <td><img src="https://github.com/princebillygk/princebillygk/assets/112609311/e435bd4d-55bd-40f7-a44b-4b1002c3681b0"></td>
+    <td><img src="https://github.com/princebillygk/princebillygk/assets/112609311/976be82e-77f2-4609-8244-c9077ea83eb2"></td>
     <td><img src="https://github.com/princebillygk/princebillygk/assets/112609311/83880afd-1e2f-439c-bcad-3617cdd0792e"></td>
 </tr>
-</table
+</table>
