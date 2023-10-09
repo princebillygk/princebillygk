@@ -45,9 +45,9 @@ Visit one of these two links to learn more about me:</br>
 <tr>
     <td><img width="100%" src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
     <td><img width="100%" src="https://i.ibb.co/RQmn7h3/image.png" alt="image" border="0"></td>
-    <td>![image](https://github.com/princebillygk/princebillygk/assets/112609311/40dc96f2-2c12-4558-a2d2-3f6b90383d1a)</td>
+    <td> ![image](https://github.com/princebillygk/princebillygk/assets/112609311/40dc96f2-2c12-4558-a2d2-3f6b90383d1a) </td>
     <td><img width="100%" src="https://i.ibb.co/p36yvXP/image.png" alt="image" border="0"></td>
-    <td>![image](https://github.com/princebillygk/princebillygk/assets/112609311/3a33b28b-8e22-434e-9877-883f30657195)</td>
+    <td> ![image](https://github.com/princebillygk/princebillygk/assets/112609311/3a33b28b-8e22-434e-9877-883f30657195) </td>
     <td><img width="100%" src="https://i.ibb.co/2gMFD4c/image.png" alt="image" border="0"></td>
     <td><img width="100%" src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
 </tr>
