@@ -44,6 +44,7 @@ Visit one of these two links to learn more about me:</br>
 <tr>
     <td><img height="64px" src="https://media.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif"></td>
     <td><img height="64px" src="https://media.tenor.com/BbMuRdTu4BYAAAAC/owo-anime.gif"></td>
+    <td><img height="64px" src="https://media.tenor.com/kj36bWT0HjQAAAAM/golden-boy-kintaro.gif"></td>
     <td><img height="64px" src="https://media.tenor.com/9j8vvseBaHsAAAAC/test-cat-typing.gif"></td>
 </tr>
 </table>
