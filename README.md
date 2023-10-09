@@ -42,6 +42,6 @@ Visit one of these two links to learn more about me:</br>
 
 <tabler>
 <tr>
-    <td><img src="https://media.tenor.com/BbMuRdTu4BYAAAAC/owo-anime.gif"></td>
+    <td><img height="64px"src="https://media.tenor.com/BbMuRdTu4BYAAAAC/owo-anime.gif"></td>
 </tr>
 </tabler>
