@@ -43,7 +43,11 @@ Visit one of these two links to learn more about me:</br>
 <tabler>
 <tr>
     <td><img height="64px" src="https://media.tenor.com/9SIDyC9JvUYAAAAC/shimakaze-scroll.gif"></td>
+</tr>
+<tr>
     <td><img height="64px" src="https://media.tenor.com/BbMuRdTu4BYAAAAC/owo-anime.gif"></td>
+</tr>
+<tr>    
     <td><img height="64px" src="https://media.tenor.com/9j8vvseBaHsAAAAC/test-cat-typing.gif"></td>
 </tr>
 </tabler>
