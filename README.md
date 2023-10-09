@@ -13,7 +13,7 @@ Visit one of these two links to learn more about me:</br>
 <table align="center">
 <tr>
 <td>
-[![Prince Billy Graham Karmoker StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8084731)](https://stackoverflow.com/users/8084731/prince-billy-graham)
+<a herf="https://stackoverflow.com/users/8084731/prince-billy-graham"><img src="https://github-readme-stackoverflow.vercel.app/?userID=8084731"></a>
 </td>
 <td>
 <p align="left">
