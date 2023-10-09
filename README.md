@@ -40,8 +40,8 @@ Visit one of these two links to learn more about me:</br>
 </a>
 </p>
 
-<p align="center">
-<table>
+
+<table align="center">
 <tr>
     <td><img height="64px" src="https://media.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif"></td>
     <td><img height="64px" src="https://media.tenor.com/BbMuRdTu4BYAAAAC/owo-anime.gif"></td>
@@ -50,4 +50,4 @@ Visit one of these two links to learn more about me:</br>
     <td><img height="64px" src="https://media.tenor.com/9j8vvseBaHsAAAAC/test-cat-typing.gif"></td>
 </tr>
 </table>
-</p>
+
