@@ -1,4 +1,4 @@
-# Software Engineer (<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16px">)
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&repeat=false&width=435&lines=Software+Engineer" alt="Typing SVG" /> (<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16px">)
 <p align="justify">
 I'm glad that you are here. Your visit to my profile makes me extremely happy.
 </p>
