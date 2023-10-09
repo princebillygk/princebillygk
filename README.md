@@ -43,13 +43,13 @@ Visit one of these two links to learn more about me:</br>
 
 <table align="center">
 <tr>
-    <td><img src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
-    <td><img src="https://i.ibb.co/RQmn7h3/image.png" alt="image" border="0"></td>
-    <td><img src="https://i.ibb.co/5T8tmPr/image.png" alt="image" border="0"></td>
-    <td><img src="https://i.ibb.co/p36yvXP/image.png" alt="image" border="0"></td>
-    <td><img src="https://i.ibb.co/Tw3nz62/image.png" alt="image" border="0"></td>
-    <td><img src="https://i.ibb.co/2gMFD4c/image.png" alt="image" border="0"></td>
-    <td><img src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
+    <td><img width="100%" src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
+    <td><img width="100%" src="https://i.ibb.co/RQmn7h3/image.png" alt="image" border="0"></td>
+    <td><img width="100%" src="https://i.ibb.co/5T8tmPr/image.png" alt="image" border="0"></td>
+    <td><img width="100%" src="https://i.ibb.co/p36yvXP/image.png" alt="image" border="0"></td>
+    <td><img width="100%" src="https://i.ibb.co/Tw3nz62/image.png" alt="image" border="0"></td>
+    <td><img width="100%" src="https://i.ibb.co/2gMFD4c/image.png" alt="image" border="0"></td>
+    <td><img width="100%" src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
 </tr>
 </table>
 
