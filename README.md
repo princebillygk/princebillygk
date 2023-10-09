@@ -1,4 +1,4 @@
-# Software Engineer (<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16px">)
+![image](https://github.com/princebillygk/princebillygk/assets/112609311/6d2d4a51-ed3e-4e8a-802c-357e6197f892)# Software Engineer (<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="16px">, <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16px">)
 <p align="justify">
 I'm glad that you are here. Your visit to my profile makes me extremely happy.
 </p>
@@ -42,6 +42,6 @@ Visit one of these two links to learn more about me:</br>
 
 <tabler>
 <tr>
-    <td>![Not relevent but cute 🤫](https://github.com/princebillygk/princebillygk/assets/112609311/82b57147-4e58-492b-8f69-d32fce637c98)</td>
+    <td><img src="https://media.tenor.com/BbMuRdTu4BYAAAAC/owo-anime.gif"></td>
 </tr>
 </tabler>
