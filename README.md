@@ -42,6 +42,8 @@ Visit one of these two links to learn more about me:</br>
 
 <table>
 <tr>
+   
+    <td><img height="64px" src="https://media.tenor.com/bHxdfD3TAGoAAAAC/milk-and.gif"></td>
     <td><img height="64px" src="https://media.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif"></td>
     <td><img height="64px" src="https://media.tenor.com/BbMuRdTu4BYAAAAC/owo-anime.gif"></td>
     <td><img height="64px" src="https://media.tenor.com/kj36bWT0HjQAAAAM/golden-boy-kintaro.gif"></td>
