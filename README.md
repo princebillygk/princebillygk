@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=0969DA&center=true&repeat=false&width=310&lines=Software+Engineer"/>
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 <p align="justify">
 I'm glad that you are here. Your visit to my profile makes me extremely happy.
 </p>
