@@ -43,12 +43,12 @@ Visit one of these two links to learn more about me:</br>
 
 <table align="center">
 <tr>
-    <td><img width="100%" src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
-    <td><img width="100%" src="https://i.ibb.co/RQmn7h3/image.png" alt="image" border="0"></td>
-    <td> <img src="https://github.com/princebillygk/princebillygk/assets/112609311/40dc96f2-2c12-4558-a2d2-3f6b90383d1a"></td>
-    <td><img width="100%" src="https://i.ibb.co/p36yvXP/image.png" alt="image" border="0"></td>
+    <td><img src="https://github.com/princebillygk/princebillygk/assets/112609311/83880afd-1e2f-439c-bcad-3617cdd0792e"></td>
+    <td><img src="https://github.com/princebillygk/princebillygk/assets/112609311/a57b76bb-8a29-4193-b292-e866fcb3a204"></td>
+    <td> <img src="https://github.com/princebillygk/princebillygk/assets/112609311/4d746793-08ae-4d7f-96c7-6b42dc70487b"></td>
+    <td><img src="https://github.com/princebillygk/princebillygk/assets/112609311/8659796a-340d-41ef-838f-e83f8c27b1d6"></td>
     <td> <img src="https://github.com/princebillygk/princebillygk/assets/112609311/3db4a358-f3b1-44da-aa5c-b9bbed263bdd"></td>
-    <td><img width="100%" src="https://i.ibb.co/2gMFD4c/image.png" alt="image" border="0"></td>
-    <td><img width="100%" src="https://i.ibb.co/rcY8WqN/ezgif-5-58ec758193.gif" alt="ezgif-5-58ec758193" border="0"></td>
+    <td><img src="https://github.com/princebillygk/princebillygk/assets/112609311/e435bd4d-55bd-40f7-a44b-4b1002c3681b0"></td>
+    <td><img src="https://github.com/princebillygk/princebillygk/assets/112609311/83880afd-1e2f-439c-bcad-3617cdd0792e"></td>
 </tr>
-</table>
+</table
