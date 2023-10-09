@@ -43,7 +43,7 @@ Visit one of these two links to learn more about me:</br>
 
 <table align="center">
 <tr>
-    <td><img style="max-height:64px;" src="https://media.tenor.com/GE2JEcO8flkAAAAC/down.gif"></td>
+    <td><img max-height="64px" src="https://media.tenor.com/GE2JEcO8flkAAAAC/down.gif"></td>
     <td><img height="64px" src="https://media.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif"></td>
     <td><img height="64px" src="https://media.tenor.com/BbMuRdTu4BYAAAAC/owo-anime.gif"></td>
     <td><img height="64px" src="https://media.tenor.com/FYgnDtr-eFwAAAAC/sponge-bob-patrick-star.gif"></td>
