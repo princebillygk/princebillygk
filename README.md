@@ -3,14 +3,10 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <p align="justify">
-I'm glad that you are here. Your visit to my profile makes me extremely happy.
+I am a skilled and experienced developer with expertise in Golang, Typescript, Javascript, and Python. I am open to new opportunities for employment or collaboration on open source projects. I am also interested in hearing from potential partners who have innovative and groundbreaking startup ideas. If you are looking for a reliable and passionate developer, please feel free to contact me!
 </p>
 
-Visit one of these two links to learn more about me:</br>
-<a target="_blank" href="https://princebillygk.github.io/">
-    <u><b>princebillygk.github.io</b></u>
-    <img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
-</a>
+Reach me at: <a href="princebillygk@gmail.com">princebillygk@gmail.com</a></br>
 
 <table align="center">
 <tr>
