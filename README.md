@@ -3,7 +3,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <p align="justify">
-I am a skilled and experienced developer with expertise in Golang, Typescript, Javascript, and Python. I am open to new opportunities for employment or collaboration on open source projects. I am also interested in hearing from potential partners who have innovative and groundbreaking startup ideas. If you are looking for a reliable and passionate developer, please feel free to contact me!
+Skilled in Golang, Typescript, Javascript
 </p>
 
 Reach me at: <a href="princebillygk@gmail.com">princebillygk@gmail.com</a></br>
